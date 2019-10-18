@@ -44,7 +44,7 @@ pyquery==1.4.0
 pytest==3.4.0
 pytest-sanic==0.1.9
 python-dotenv==0.8.2
-PyYAML==3.12
+PyYAML==5.1
 requests==2.18.4
 requests-html==0.8.2
 sanic==0.7.0
